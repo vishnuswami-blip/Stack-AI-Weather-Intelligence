@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "Weather intelligence and 7-day forecast app powered by Open-Meteo with actionable planning instructions.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
